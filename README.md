@@ -23,9 +23,6 @@ kayossouza@github
 🌟 Main languages: Python, JavaScript, Java, PHP, Dart
 🤠 You don't know shit if you haven't listened Dead Fish 
 ```
-<hr>
-
-<hr style="margin-top: 200px">
 
 ## GitHub Stats
 
