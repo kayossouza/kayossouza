@@ -12,7 +12,7 @@ Hi, I'm Kayo Souza, AKA KinhoDev.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=self+thaught+computer+scientist;fullstack+software+engineer;SHUT%20UP%20AND%20SHOW%20ME%20THE%20CODE&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="420" />
+<img align="left" src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="520" />
 <hr>
 
 ```
