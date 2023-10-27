@@ -27,7 +27,7 @@ kayossouza@github
 
 <hr style="margin-top: 200px">
 
-## GitHub Stats
+# GitHub Stats
 
 <hr>
 
