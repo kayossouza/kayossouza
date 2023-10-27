@@ -4,7 +4,7 @@
 <h1 align="center">
 Hi, I'm Kayo Souza, AKA KinhoDev.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right'/> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -12,11 +12,11 @@ Hi, I'm Kayo Souza, AKA KinhoDev.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=self+thaught+computer+scientist;fullstack+software+engineer;SHUT%20UP%20AND%20SHOW%20ME%20THE%20CODE&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/kayossouza/kayossouza/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
+kayossouza@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
