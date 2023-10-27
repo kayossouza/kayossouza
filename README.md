@@ -10,7 +10,6 @@
 
 - Competitive programming
 <img align="left" src="https://www.codewars.com/users/kinhodev27/badges/large" alt="🥋 [4-kyu at codewars]" />
-<hr>
 
 ```
 kayossouza@github
