@@ -29,10 +29,12 @@ kayossouza@github
 
 ## GitHub Stats
 
+<hr>
+
 
 |                                                                     Kinho's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Kinho's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kayossouza&theme=react-dark&hide_border=true&area=true) |
+| ![Kinho's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kayossouza&theme=react-dark&hide_border=true&area=true)      |
 | ![Kinho's github stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=algolia)              | 
 | ![Kinho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kayossouza&theme=algolia)                    | 
     
