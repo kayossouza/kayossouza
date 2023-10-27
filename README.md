@@ -17,7 +17,8 @@ kayossouza@github
 💻 Self-taught Fullstack Software Engineer
 📚 I'm always on the path of enlightment
 🌟 Main languages: Python, JavaScript, Java, PHP, Dart
-🤠 You don't know shit if you haven't listened Dead Fish 
+🤠 You don't know shit if you haven't listened Dead Fish
+🥋 [4-kyu at codewars](https://www.codewars.com/users/kinhodev27/badges/large)
 ```
 <hr>
 <br>
