@@ -4,7 +4,7 @@
 <h1 align="center">
 Hi, I'm Kayo Souza, AKA KinhoDev.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right'/> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
+ <img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right' height=420/> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
