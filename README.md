@@ -9,7 +9,7 @@ Hi, I'm Kayo Souza, AKA KinhoDev.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=self+thaught+computer+scientist;fullstack+software+engineer;SHUT%20|%20UP%20|%20AND%20SHOW%20ME%20THE%20CODE;SHOW%20ME%20THE%20CODE&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=self+thaught+computer+scientist;fullstack+software+engineer;SHUT%20UP%20AND%20SHOW%20ME%20THE%20CODE&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
