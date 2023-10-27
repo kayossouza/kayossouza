@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=self+thaught+computer+scientist;fullstack+software+engineer;SHUT%20UP%20AND%20SHOW%20ME%20THE%20CODE&center=true"></a>
 </p>
 
-- Competitive programming
+
 <img align="left" src="https://www.codewars.com/users/kinhodev27/badges/large" alt="🥋 [4-kyu at codewars]" />
 
 ```
