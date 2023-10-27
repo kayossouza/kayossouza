@@ -1,4 +1,6 @@
-### Hi there 👋
+### Developer Ninja Jedi 🐱‍👤
+
+![codewars](https://www.codewars.com/users/kinhodev27/badges/large)
 
 <!--
 **kayossouza/kayossouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
