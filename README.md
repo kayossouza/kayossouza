@@ -32,11 +32,11 @@ kayossouza@github
 <hr>
 
 
-|                                                                     Kinho's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Kinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)    |
-| ![Kinho's github stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=algolia)              | 
-| ![Kinho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kayossouza&theme=algolia)                    | 
+
+![Kinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Kinho's github stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=algolia)
+![Kinho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kayossouza&theme=algolia)
     
 
 |                                                                                                      Kinho's Stars                                                                                                       |                                                           Top Languages                                                           |      
