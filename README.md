@@ -7,8 +7,8 @@
 <p align="center" style="margin-top: 10px">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=self+thaught+computer+scientist;fullstack+software+engineer;SHUT%20UP%20AND%20SHOW%20ME%20THE%20CODE&center=true"></a>
 </p>
-
-<img align="left" src="https://miro.medium.com/v2/resize:fit:679/1*ubCR6WyFNthQVQ9D4AIO9g.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="50%" />
+🥋 [4-kyu at codewars]
+<img align="left" src="https://www.codewars.com/users/kinhodev27/badges/large" alt="🥋 [4-kyu at codewars]" />
 <hr>
 
 ```
@@ -18,7 +18,6 @@ kayossouza@github
 📚 I'm always on the path of enlightment
 🌟 Main languages: Python, JavaScript, Java, PHP, Dart
 🤠 You don't know shit if you haven't listened Dead Fish
-🥋 [4-kyu at codewars](https://www.codewars.com/users/kinhodev27/badges/large)
 ```
 <hr>
 <br>
