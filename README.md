@@ -34,7 +34,7 @@ kayossouza@github
 
 |                                                                     Kinho's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Kinho's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kayossouza&theme=react-dark&hide_border=true&area=true)      |
+| ![Kinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)    |
 | ![Kinho's github stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=algolia)              | 
 | ![Kinho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kayossouza&theme=algolia)                    | 
     
