@@ -27,9 +27,7 @@ kayossouza@github
 
 <hr style="margin-top: 200px">
 
-# GitHub Stats
-
-<hr>
+## GitHub Stats
 
 
 ![Kinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show=reviews,discussions_started,discussions_answered,prs_merged&theme=algolia)
