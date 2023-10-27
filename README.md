@@ -34,6 +34,8 @@ kayossouza@github
 ![Kinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show=reviews,discussions_started,discussions_answered,prs_merged&theme=algolia)
 ![Kinho's github stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=algolia)
 ![Kinho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kayossouza&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayossouza)](https://github.com/kayossouza/github-readme-stats)
+
     
 
 |                                                                                                      Kinho's Stars                                                                                                       |                                                           Top Languages                                                           |      
