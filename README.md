@@ -25,10 +25,13 @@ kayossouza@github
 ```
 <hr>
 <br>
-<br>
-<br>
+<br/>
+<br/>
 
 <p align="left"> <a href="https://twitter.com/kinhozord" target="blank"><img src="https://img.shields.io/twitter/follow/kinhozord?logo=twitter&style=for-the-badge" alt="kinhozord" /></a> </p>
+
+<br/>
+
 
 - 🌱 I’m currently learning **Quarkus and Angular**
 
