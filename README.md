@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Kayo Souza, AKA KinhoDev.</h1>
 <h3 align="center">Generalist Softwar Engineer</h3>
+![image](https://github.com/kayossouza/kayossouza/assets/111586904/777c9a62-d7df-4e37-a594-d399c5a4c5c0)
+
 <img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='left' width=50% height=50% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
 <img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right' width=50% height=50% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
 <br/>
