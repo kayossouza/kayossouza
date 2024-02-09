@@ -31,6 +31,7 @@ kayossouza@github
 <p align="left"> <a href="https://twitter.com/kinhozord" target="blank"><img src="https://img.shields.io/twitter/follow/kinhozord?logo=twitter&style=for-the-badge" alt="kinhozord" /></a> </p>
 
 <br/>
+<br/>
 
 
 - 🌱 I’m currently learning **Quarkus and Angular**
