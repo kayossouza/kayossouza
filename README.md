@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Kayo Souza, AKA KinhoDev.</h1>
 <h3 align="center">Generalist Softwar Engineer</h3>
 
-
-<img src="https://media.licdn.com/dms/image/D4D03AQHeMrSWvKufqQ/profile-displayphoto-shrink_800_800/0/1695226370225?e=1712793600&v=beta&t=ScTsLDQeRqS94Bmm5z493SB6HmAyAcLDIKqvYHpZgj8" alt="Profile views" align='left' width=50% height=50% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
-<br/>
-<img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right' width=50% height=50% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
+<img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right' width=100% height=100% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
 <hr/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -24,13 +21,9 @@ kayossouza@github
 🤠 You don't know shit if you haven't listened Dead Fish
 ```
 <hr>
-<br>
-<br/>
-<br/>
 
 <p align="left"> <a href="https://twitter.com/kinhozord" target="blank"><img src="https://img.shields.io/twitter/follow/kinhozord?logo=twitter&style=for-the-badge" alt="kinhozord" /></a> </p>
 
-<br/>
 <br/>
 
 
