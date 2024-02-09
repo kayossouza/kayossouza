@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kayo Souza, AKA KinhoDev.</h1>
 <h3 align="center">Generalist Softwar Engineer</h3>
-<img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='right' width=70% height=70% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
+<img src="https://a.storyblok.com/f/178900/1200x675/133232f87e/good-night-world-titelbild.jpg" alt="Profile views" align='center' width=60% height=60% /> <a href="https://github.com/kayossouza/kayossouza/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
