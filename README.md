@@ -17,8 +17,7 @@ kayossouza@github
 -------------------------
 💻 Self-taught Fullstack Software Engineer
 📚 I'm always on the path of enlightment
-🌟 Main languages: Python, JavaScript, Java, PHP, Dart
-🤠 You don't know shit if you haven't listened Dead Fish
+🌟 Main languages: Typescript, JavaScript, Java, PHP, Dart and Python
 ```
 <hr>
 
@@ -34,8 +33,6 @@ kayossouza@github
 - 📫 How to reach me **kayosantos@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kayosantosdev/](https://www.linkedin.com/in/kayosantosdev/)
-
-- ⚡ Fun fact **All my PRs are going to have a anime gif, that's the rule.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
