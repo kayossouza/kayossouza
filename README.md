@@ -25,7 +25,7 @@ kayossouza@github
 <br/>
 
 
-- 🌱 I’m currently learning **AWS as Cloud Infgrastructure**
+- 🌱 I’m currently learning **AWS as Cloud Infrastructure**
 
 - 💬 Ask me about **React, JavaScript, Typescript, PHP, Python, Java, Dart, Flutter**
 
