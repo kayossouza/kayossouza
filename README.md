@@ -4,7 +4,7 @@
 
 <img src="https://images.steamusercontent.com/ugc/866240438023942065/A5F50365188FD2605E83879EC93E411C2FEF5EB8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="150" alt="Midoriya Izuku taking notes" />
 
-### Ninja Samurai Developer - Powered by AI
+### Software Craftsmanship
 
 </div>
 
