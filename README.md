@@ -71,22 +71,10 @@ kayossouza@github:~$ whoami
 
 <div align="center">
 
-```
-ﾃ ｽ ｻ ｿ ｼ ﾊ ﾓ ﾍ ｲ ﾏ ｶ ｷ ﾑ ﾕ ﾒ ﾐ ﾋ ﾆ ｦ ﾜ ﾎ ﾄ ﾘ ﾇ ﾙ ﾈ ﾛ ﾅ ﾚ ｹ ﾉ
-0x2A 0x7F 0x3E 0x5C | MATRIX RAIN | 雨 の マ ト リ ッ ク ス
-ｻ ｿ ｼ ﾊ ﾓ ﾍ ｲ ｴ ﾏ ｶ ｷ ﾑ ﾕ ﾒ ﾐ ﾋ ﾆ ｦ ﾜ ﾎ ﾄ ﾘ ﾇ ﾙ ﾈ ﾛ ﾅ
-```
-
 _The warrior's path is through discipline, focus, and relentless pursuit of mastery._
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayossouza&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayossouza&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
 
 </div>
