@@ -2,7 +2,7 @@
 
 # Kayo Souza
 
-<img src="https://i.pinimg.com/originals/95/d7/99/95d7999b5ab0f7b2e4e5d5b6e5f5f5f5.gif" width="150" alt="Midoriya Izuku taking notes" />
+<img src="https://images.steamusercontent.com/ugc/866240438023942065/A5F50365188FD2605E83879EC93E411C2FEF5EB8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="150" alt="Midoriya Izuku taking notes" />
 
 ### Ninja Samurai Developer - Powered by AI
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/72/d5/c3/72d5c3e0b0a0e3f1e5c3e1e0c3e0e1e0.jpg" width="250" alt="Miyamoto Musashi" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Musashi_ts_pic.jpg" width="250" alt="Miyamoto Musashi" />
 
 ### _"If you know the way broadly, you see it in all things."_
 **— Miyamoto Musashi, The Book of Five Rings**
