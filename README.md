@@ -54,6 +54,54 @@ Focus: Building scalable systems & elegant solutions
 
 <div align="center">
 
+### ⚔️ The Terminal Warrior's Arsenal
+
+_"There is nothing outside of yourself that can ever enable you to get better."_ — Musashi
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🗡️ My Battle Station
+
+**Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/) (GPU-accelerated)
+**Shell:** Zsh + Starship prompt
+**Editor:** VS Code with Vim motions
+**Workflow:** TDD, Clean Architecture, DDD
+
+</td>
+<td width="50%">
+
+#### 📦 Dotfiles
+
+My development environment, crafted with discipline.
+
+**→ [kayossouza/dotfiles](https://github.com/kayossouza/dotfiles)**
+
+- Kitty terminal config
+- Zsh with powerful plugins
+- Starship prompt
+- Development aliases
+- Smart git workflows
+
+_Every config file blessed by Musashi quotes._
+
+</td>
+</tr>
+</table>
+
+```bash
+# Clone and use my setup
+git clone https://github.com/kayossouza/dotfiles.git ~/dotfiles
+cd ~/dotfiles && ./install.sh
+```
+
+---
+
+<div align="center">
+
 ### Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kinhozord)
@@ -67,6 +115,35 @@ Focus: Building scalable systems & elegant solutions
 
 <div align="center">
 
-_The warrior's path is through discipline, focus, and relentless pursuit of mastery._
+### 🎯 Current Focus
+
+```
+┌─ Building in public
+├─ Contributing to open source
+├─ Mastering system design
+└─ Walking the way of continuous improvement
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayossouza&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+_"The warrior's path is through discipline, focus, and relentless pursuit of mastery."_
+
+**The way is in training.** 🗡️
 
 </div>
