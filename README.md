@@ -62,7 +62,7 @@ Currently exploring **Engineering Management** while shipping code daily.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kayossouza&theme=dark&background=0d1117&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=kayossouza&theme=dark&background=0d1117&hide_border=true&cache_seconds=86400&v=2" />
 
 </div>
 
