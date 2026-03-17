@@ -55,8 +55,8 @@ Currently exploring **Engineering Management** while shipping code daily.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayossouza&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kayossouza&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub+Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayossouza&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&hide=html,mdx&exclude_repo=blog,kayossouza" />
 
 </div>
 
