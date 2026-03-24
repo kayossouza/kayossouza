@@ -51,26 +51,6 @@ Currently exploring **Engineering Management** while shipping code daily.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=kayossouza&theme=dark&background=0d1117&hide_border=true&cache_seconds=86400&v=2" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayossouza&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" />
-
-</div>
-
----
-
 ### Featured Projects
 
 | Project | Description |
