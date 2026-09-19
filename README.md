@@ -23,8 +23,8 @@
 kayossouza@github:~$ whoami
 ```
 
-Tech Lead at **@yooga-tecnologia** building products from POS terminals to AI agents.
-Self-taught engineer with a generalist mindset — I go deep where it matters and wide where it helps.
+Tech Lead at **@Experity** working on care agent
+Self-taught engineer with a generalist mindset. I go deep where it matters and wide where it helps.
 
 Currently exploring **Engineering Management** while shipping code daily.
 
