@@ -1,3 +1,5 @@
+![Kayo Souza: Tech Lead, LLM agents and payment systems in production. Experity, Topo Contábil, ex-Nike, Yooga, QuintoAndar and Loft.](assets/banner.jpg)
+
 # Kayo Souza
 
 Tech Lead of the nearshore team on Care Agent, Experity's LLM agent for US urgent care, running under HIPAA. Co-founder of [Topo Contábil](https://topocontabil.com.br). 8+ years building payments, healthtech and AI products. Based in Vitória, Brazil, working remotely with US teams.
