@@ -8,7 +8,7 @@ I mentor software engineers who want to work for companies abroad. Start with a 
 
 - [isoplan](https://github.com/kayossouza/isoplan): draw any system as an isometric floor plan in React, with the path each request takes. Try it at [isoplan.kinho.dev](https://isoplan.kinho.dev).
 - [brain-template](https://github.com/kayossouza/brain-template): a second brain in Obsidian, run by Claude Code.
-- [deck-engine](https://github.com/kayossouza/deck-engine): slides in plain HTML, CSS and JS, no build step.
+- [deck-engine](https://github.com/kayossouza/deck-engine): slides in plain HTML, CSS and JS, no build step. Demo at [deck.kinho.dev](https://deck.kinho.dev).
 - [sigil-protocol](https://github.com/kayossouza/sigil-protocol): an open identity layer for AI agents.
 - [railway-sentry](https://github.com/kayossouza/railway-sentry) and [railway-elk](https://github.com/kayossouza/railway-elk): self-hosted errors, logs and traces on Railway.
 
