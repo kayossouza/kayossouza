@@ -6,11 +6,13 @@ I mentor software engineers who want to work for companies abroad. Start with a 
 
 ### Open source
 
-- [isoplan](https://github.com/kayossouza/isoplan): draw any system as an isometric floor plan in React, with the path each request takes. Try it at [isoplan.kinho.dev](https://isoplan.kinho.dev).
-- [brain-template](https://github.com/kayossouza/brain-template): a second brain in Obsidian, run by Claude Code.
-- [deck-engine](https://github.com/kayossouza/deck-engine): slides in plain HTML, CSS and JS, no build step. Demo at [deck.kinho.dev](https://deck.kinho.dev).
-- [sigil-protocol](https://github.com/kayossouza/sigil-protocol): an open identity layer for AI agents.
-- [railway-sentry](https://github.com/kayossouza/railway-sentry) and [railway-elk](https://github.com/kayossouza/railway-elk): self-hosted errors, logs and traces on Railway.
+If one of these helps you, a star helps it reach more people.
+
+- [isoplan](https://github.com/kayossouza/isoplan): draw any system as an isometric floor plan in React, with the path each request takes. Try it at [isoplan.kinho.dev](https://isoplan.kinho.dev). [★ Star](https://github.com/kayossouza/isoplan)
+- [brain-template](https://github.com/kayossouza/brain-template): a second brain in Obsidian, run by Claude Code. [★ Star](https://github.com/kayossouza/brain-template)
+- [deck-engine](https://github.com/kayossouza/deck-engine): slides in plain HTML, CSS and JS, no build step. Demo at [deck.kinho.dev](https://deck.kinho.dev). [★ Star](https://github.com/kayossouza/deck-engine)
+- [sigil-protocol](https://github.com/kayossouza/sigil-protocol): an open identity layer for AI agents. [★ Star](https://github.com/kayossouza/sigil-protocol)
+- [railway-sentry](https://github.com/kayossouza/railway-sentry) and [railway-elk](https://github.com/kayossouza/railway-elk): self-hosted errors, logs and traces on Railway. [★ Star sentry](https://github.com/kayossouza/railway-sentry) · [★ Star elk](https://github.com/kayossouza/railway-elk)
 
 ### Latest writing
 
