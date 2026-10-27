@@ -15,6 +15,11 @@ I mentor software engineers who want to work for companies abroad. Start with a 
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Sol or Luna: classify the task before chasing the discount](https://kinho.dev/en-US/rants/sol-luna-modelo-padrao)
+- [Cheaper Opus: where&#39;s the finding that changes the delivery?](https://kinho.dev/en-US/logs/opus-5-5-custo-revisao)
+- [Already authorized. Why did the agent ask again?](https://kinho.dev/en-US/logs/autorizacao-trabalho-permitido)
+- [Old rules get no automatic claim on a new agent](https://kinho.dev/en-US/rants/modelo-e-ferramenta-agentes)
+- [Buying an executor only pays if I can resume the work](https://kinho.dev/en-US/logs/comprar-executor-agentes)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
