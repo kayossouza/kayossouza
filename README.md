@@ -6,6 +6,14 @@ Tech Lead of the nearshore team on Care Agent, Experity's LLM agent for US urgen
 
 I mentor software engineers who want to work for companies abroad. Start with a diagnosis call at [kinho.dev/mentoria](https://kinho.dev/en-US/mentoria).
 
+### Highlights
+
+- **Care Agent at Experity:** Tech Lead of the nearshore team on an LLM agent for US urgent care, running under HIPAA.
+- **Payments at Yooga:** led a platform that processed US$70M+ across 6M+ transactions and 4,300+ merchants.
+- **Nike:** built the Asset Library that serves 16M+ digital assets across Nike's global organization.
+- **Topo Contábil:** co-founder; paying B2B customers in the first year, 2,400+ automated test files.
+- **23,000+ contributions on GitHub in the last year.**
+
 ### Open source
 
 If one of these helps you, a star helps it reach more people.
