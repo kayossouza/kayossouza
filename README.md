@@ -1,69 +1,24 @@
-<div align="center">
+# Kayo Souza
 
-# Kayo "Kinho" Souza
+Tech Lead of the nearshore team on Care Agent, Experity's LLM agent for US urgent care, running under HIPAA. Co-founder of [Topo Contábil](https://topocontabil.com.br). 8+ years building payments, healthtech and AI products. Based in Vitória, Brazil, working remotely with US teams.
 
-<img src="https://images.steamusercontent.com/ugc/866240438023942065/A5F50365188FD2605E83879EC93E411C2FEF5EB8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="120" alt="avatar" />
+I mentor software engineers who want to work for companies abroad. Start with a diagnosis call at [kinho.dev/mentoria](https://kinho.dev/en-US/mentoria).
 
-**Tech Lead** · Fullstack Engineer · Self-taught Generalist
+### Open source
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Building+scalable+systems;Always+on+the+path+of+enlightenment;If+you+know+the+way+broadly%2C+you+see+it+in+all+things)](https://git.io/typing-svg)
+- [isoplan](https://github.com/kayossouza/isoplan): draw any system as an isometric floor plan in React, with the path each request takes. Try it at [isoplan.kinho.dev](https://isoplan.kinho.dev).
+- [brain-template](https://github.com/kayossouza/brain-template): a second brain in Obsidian, run by Claude Code.
+- [deck-engine](https://github.com/kayossouza/deck-engine): slides in plain HTML, CSS and JS, no build step.
+- [sigil-protocol](https://github.com/kayossouza/sigil-protocol): an open identity layer for AI agents.
+- [railway-sentry](https://github.com/kayossouza/railway-sentry) and [railway-elk](https://github.com/kayossouza/railway-elk): self-hosted errors, logs and traces on Railway.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kayosantosdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kinhozord)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kinhodev)
-[![Website](https://img.shields.io/badge/kinho.dev-000?style=flat-square&logo=safari&logoColor=white)](https://kinho.dev)
+### Latest writing
 
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
+### Elsewhere
 
-### About
+[kinho.dev](https://kinho.dev) · [LinkedIn](https://www.linkedin.com/in/kinhodev) · [X](https://x.com/kinho_dev) · [YouTube](https://www.youtube.com/@kinhodev)
 
-```
-kayossouza@github:~$ whoami
-```
-
-Tech Lead at **@Experity** working on care agent
-Self-taught engineer with a generalist mindset. I go deep where it matters and wide where it helps.
-
-Currently exploring **Engineering Management** while shipping code daily.
-
----
-
-### Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<div align="center">
-
-<img src="https://www.codewars.com/users/kinhodev27/badges/large" alt="Codewars" />
-
-</div>
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Musashi_ts_pic.jpg" width="180" alt="Miyamoto Musashi" />
-
-_"If you know the way broadly, you see it in all things."_
-**— Miyamoto Musashi**
-
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=kayossouza&color=00ff41&style=flat-square&label=Profile+Views)
-
-</div>
+Em português: mentoria para quem quer trabalhar para fora em [kinho.dev/pt-BR/mentoria](https://kinho.dev/pt-BR/mentoria).
