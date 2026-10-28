@@ -1,4 +1,4 @@
-![Kayo Souza: Tech Lead, LLM agents and payment systems in production. Experity, Topo Contábil, ex-Nike, Yooga, QuintoAndar and Loft.](assets/banner.jpg)
+![Kayo Souza: Tech Lead, LLM agents and payment systems in production. Experity, CODERS, Topo Contábil, ex-Nike, Yooga, QuintoAndar and Loft.](assets/banner.jpg)
 
 # Kayo Souza
 
